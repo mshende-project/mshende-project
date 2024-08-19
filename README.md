@@ -18,13 +18,9 @@ I'm a passionate Full-Stack Developer.
 - **DevOps**: Docker, Git, GitHub Actions, CI/CD
 - **Others**: RESTful APIs, Jest, React testing library, PHPUnit
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
 ## 📊 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshende-project&layout=compact&theme=radical)
 
 ## 📂 Projects
 
