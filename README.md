@@ -7,7 +7,7 @@ I'm a passionate Full-Stack Developer.
 - 🔭 I’m currently working on various projects using **PHP** and it's frameworks like **Symfony** and **Laravel**, javascript library **React**.
 - 🌱 I’m continuously learning and improving my skills in web development.
 - 👯 I’m looking to collaborate on exciting open-source projects.
-- 💬 Ask me about anything related to **PHP**, **JavaScript**, **Symfony**, **React**.
+- 💬 Ask me about anything related to **PHP**, **Symfony**, **JavaScript**, **React**.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/minal-shende-a762ba138/).
 
 ## 🛠️ Technologies & Tools
@@ -16,7 +16,7 @@ I'm a passionate Full-Stack Developer.
 - **Frontend**: React, JavaScript, React Redux, HTML5, CSS3, SASS, Bootstrap
 - **Database**: MySQL
 - **DevOps**: Docker, Git, GitHub Actions, CI/CD
-- **Others**: RESTful APIs, Jest, React testing library, PHPUnit
+- **Others**: RESTful APIs, PHPUnit, Jest, React testing library
 
 ## 📊 Top Languages
 
