@@ -4,7 +4,7 @@ I'm a passionate Full-Stack Developer.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various projects using **PHP** and it's frameworks like **Symfony**, **Laravel**, and **React**.
+- 🔭 I’m currently working on various projects using **PHP** and it's frameworks like **Symfony** and **Laravel** javascript library **React**.
 - 🌱 I’m continuously learning and improving my skills in web development.
 - 👯 I’m looking to collaborate on exciting open-source projects.
 - 💬 Ask me about anything related to **PHP**, **JavaScript**, **Symfony**, **React**.
