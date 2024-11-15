@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a passionate Full-Stack Developer.
+I'm a Full-Stack Developer.
 
 ## 🚀 About Me
 
